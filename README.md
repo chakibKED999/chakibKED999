@@ -1,4 +1,4 @@
-👋 Hello, I'm Chakib
+👋 Hello, I'm Chakib Kedjour
 
 Welcome to my GitHub profile! I'm a Computer Science student and a Mobile App Developer specialized in Flutter.
 
