@@ -12,7 +12,7 @@ I enjoy building useful applications, solving real-world problems, and continuou
 💻 Main focus: Mobile development & backend integration (APIs)  
 🌱 Learning: Computer Vision & improving my development workflow  
 🎯 Goal: Build scalable apps and grow into an expert developer  
-📫 Reach me: your-email@example.com  
+📫 Reach me: chakib.kedjour@gmail.com  
 
 ---
 
@@ -58,7 +58,7 @@ I enjoy building useful applications, solving real-world problems, and continuou
 
 🤝 Connect With Me
 
-📧 Email: your-email@example.com  
+📧 Email: chakib.kedjour@gmail.com
 
 ---
 
